@@ -11,6 +11,35 @@
   <name>templvs</name>
   <url>http://github.com/AdrianArroyoCalle/templvs</url>
 
+<licenses>
+  <license>
+    <name>Apache License, Version 2.0</name>
+    <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    <distribution>repo</distribution>
+    <comments>A business-friendly OSS license</comments>
+  </license>
+</licenses>
+<developers>
+    <developer>
+      <id>adrian.arroyocalle</id>
+      <name>Adrián Arroyo Calle</name>
+      <email>adrian.arroyocalle@gmail.com</email>
+      <url>http://adrianarroyocalle.github.io</url>
+      <roles>
+        <role>architect</role>
+        <role>developer</role>
+      </roles>
+      <timezone>-6</timezone>
+    </developer>
+  </developers>
+  
+    <scm>
+    <connection>scm:git:http://github.com/AdrianArroyoCalle/templvs</connection>
+    <developerConnection>scm:git:https://github.com/AdrianArroyoCalle/templvs.git</developerConnection>
+    <tag>HEAD</tag>
+    <url>http://github.com/AdrianArroyoCalle/templvs</url>
+  </scm>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
